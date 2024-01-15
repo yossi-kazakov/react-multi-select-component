@@ -1,9 +1,9 @@
 .rmsc {
-  --rmsc-main: #4285f4;
+  --rmsc-main: rgb(57,109,198);
   --rmsc-hover: #f1f3f5;
-  --rmsc-selected: #e2e6ea;
-  --rmsc-border: #ccc;
-  --rmsc-gray: #aaa;
+  --rmsc-selected: rgb(57,109,198);
+  --rmsc-border: rgb(57,109,198);
+  --rmsc-gray: rgb(57,109,198);
   --rmsc-bg: #fff;
   --rmsc-p: 10px;
   --rmsc-radius: 4px;
